@@ -1,0 +1,9 @@
+/target/
+crs_*_pk
+crs_*_vk
+crs_*_pvk
+crs.pk
+src/test.json
+.idea/
+groth16/
+bench_results/
